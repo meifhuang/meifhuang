@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Mei, a data engineer in training passionate about turning messy data into actionable insights. I started in web development before diving into data science, where I recently built my first ETL pipeline for a nonprofit. I enjoy tackling complex problems, learning new technologies, and applying my skills to projects that make a meaningful impact.
+I'm Mei, a data engineer in training passionate about turning messy data into actionable insights. I enjoy tackling complex problems, learning new technologies, and applying my skills to projects that make a meaningful impact.
 
 ## Skills
 
