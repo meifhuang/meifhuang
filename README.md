@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Mei, a software engineer in training. I enjoy tackling complex problems, learning new technologies, and applying my skills to projects that make a meaningful impact.
+I'm Mei, a software engineer passionate about building technology for mission-driven organizations. I enjoy tackling complex problems and applying my skills to projects that create meaningful impact.
 
 ## Skills
 
